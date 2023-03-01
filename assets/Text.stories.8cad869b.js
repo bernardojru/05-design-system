@@ -1,0 +1,2 @@
+import{T as t}from"./Text.84727b8b.js";import"./index.5f8d9363.js";import"./index.75b2c3cd.js";import"./index.e2094f73.js";import"./iframe.55410252.js";const a={title:"Typography/Text",component:t,args:{children:"Example to Component Text"}},n={},p={args:{children:"Strong text",as:"strong"}},i=["Primary","CustomTag"];export{p as CustomTag,n as Primary,i as __namedExportsOrder,a as default};
+//# sourceMappingURL=Text.stories.8cad869b.js.map
